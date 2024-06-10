@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69545515251",
+    "project_id": "contacts-application-cdd70",
+    "storage_bucket": "contacts-application-cdd70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69545515251:android:2c4a3b6e5c0e5b765b3f86",
+        "android_client_info": {
+          "package_name": "com.example.completeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhT82NmiD68hETzVmMj-vuEWmo1YdqYvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
